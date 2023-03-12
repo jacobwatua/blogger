@@ -1,0 +1,15 @@
+@import url("./bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Passion+One&family=Playfair+Display&family=Roboto&display=swap');
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Passion One', cursive;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: #F6F7F8;
+}
+
